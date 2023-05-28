@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">project</string>
+    <string name="tweet">@malaika_basharat_004</string>
+    <string name="email">malaika.004@android.com</string>
+    <string name="name">Malaika Basharat</string>
+    <string name="contact">+92 321 8369006</string>
 </resources>
